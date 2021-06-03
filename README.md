@@ -1,1 +1,1 @@
-# Javascript-Pac-Man-
+# Javascript-Pac-Man
